@@ -1,0 +1,37 @@
+© 2020 - 2021 CalcOS. All Rights Reserved.
+
+#The calculator requires Python you can find using the link at the bottom ↓↓↓
+
+Hey there! if you didnt know yet my name is Jack Warren,
+
+I've made this python calculator open scource so feel free to download it, share it to 
+anyone you meet, greet or want to defeat in maths! Just try not to edit and redistribute it as your own. 
+I plan to have more features coming so stay tuned!
+
+This Patch Brings many new things!
+- Complete Overhaul and optimization to the calculator
+- Now everything is defined as a function, slower initial load, faster loads after!
+- Anti-Crash measures! No more having to reopen the file if you accidentally make it mad!
+- Included Statistics! (Mean, Median, mode?, Variance and Standard Deviation)
+
+  **The Above Took a VERY long time (20+ hours total with research) because im a beginner**
+
+- Loading screen (Should only appear for a couple frames before booting)
+- Includes Back to mainscreen and quit functions
+-Jack should actually implement what is above fully... 
+
+This package includes:
+-Version 2.0 of the CalcOS
+-Documentation for the Functions and commonly used things throughout the project
+-A freindly letter from the developer
+
+Got the base pythagorean code from:
+https://www.w3resource.com/python-exercises/math/python-math-exercise-68.php
+
+Got the Pie ASCII art from "Riitta Rasimus" at:
+https://ascii.co.uk/art/pie
+ ____________________________________________________________
+/|                                                          |\
+ |Download Python here if you havent, I truly recommend it! |
+ |https://www.python.org/downloads/                         |
+ |__________________________________________________________| <--Get it

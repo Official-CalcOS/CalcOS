@@ -1,0 +1,44 @@
+But its a party for the Functions! (Refer to "commonly used.txt" for context)
+
+Start()
+Displays "CalcOS by Jack warren"
+This Only appears Once above "opselect" on startup of the program after this
+you shouldn't see it again.
+
+opselect()
+Displays guide text which lets you choose your desired operations.
+
+simpleint()
+Starts Simple Interest.
+
+compoundint()
+Starts Compound Interest.
+
+genmaths()
+Allows the inputs of standard maths (Add, subtract, divide, multiply, power of)
+however, no brackets :'( ... yet
+
+pythag()
+Starts Pythagoras
+Allows you to complete Pythagoras's theorum
+
+delPI()
+A very tasty Pi!
+
+statistics()
+Starts Statistics which is not implemented yet :(
+
+mean()
+Finds Average of a list of numbers
+
+median()
+Finds the missle value of a list of numbers
+
+CrashStopperPy() and CrashStopperSimpnum()
+Prevents the program from closing on invalid inputs
+VERY handy.
+
+CrashHandler()
+Usually seen after an "except:" at the end of a mathmatical function,
+which is its natural habitat. The "except:" is caught by the "Try:" 
+This prevents the OS Crashing unnexpectedly on any error within the function.

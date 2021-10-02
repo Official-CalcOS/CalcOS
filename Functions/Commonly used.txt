@@ -1,0 +1,5 @@
+continu = input("Press enter to continue")
+Allows the user as much time as they need to read the error or answer before
+continuing.
+
+Pretty Lonely in here for lil' continu :(
